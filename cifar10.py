@@ -113,4 +113,4 @@ for i in range(0, 10):
 
 model.evaluate(x_test, y_test)
 
-model.save("cifar10_model.h5")
+model.save("cifar10_model.keras")
